@@ -3,7 +3,7 @@
 from dash import Dash, html, dcc, Input, Output, callback
 import plotly.express as px
 import pandas as pd
-from jupyter_dash import JupyterDash
+#from jupyter_dash import JupyterDash
 
 # %%
 # import data
