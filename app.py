@@ -7,7 +7,7 @@ import pandas as pd
 
 # %%
 # import data
-gdp= pd.read_csv('/Users/carolinelowenstein/Desktop/everything/DS/assignment 4/A4_student/gdp_pcap.csv')
+gdp= pd.read_csv('gdp_pcap.csv')
 
 # %%
 #change data from wide to long
